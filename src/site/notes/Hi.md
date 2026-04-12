@@ -14,6 +14,6 @@ My mission in life is to [[Mission\|empower people through technology]].
 
 As a white middle-class male in the US, I am trying to learn about racial injustice in the country historically and today, and to work to make things better.
 
-You can guess my main interests knowing that I’m a white tech guy: software and web development, video games, and collecting vintage computers. My musical interests skew towards electronic music as well.
+You can guess my main interests knowing that I’m a white tech guy: [[Software Development\|software development]], video games, and collecting vintage computers. My musical interests skew towards electronic music as well.
 
 I currently work at Chick-fil-A as a frontend software developer on the International team.
