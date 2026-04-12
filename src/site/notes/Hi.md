@@ -16,4 +16,6 @@ As a white middle-class male in the US, I am trying to learn about racial injust
 
 You can guess my main interests knowing that I’m a white tech guy: [[Software Development\|software development]], video games, and collecting vintage computers. My musical interests skew towards electronic music as well.
 
-I currently work at Chick-fil-A as a frontend software developer on the International team.
+I currently work at Chick-fil-A International as a frontend software developer.
+
+Feel free to [[Get In Touch\|get in touch]] you’d like to talk about any of the above!
