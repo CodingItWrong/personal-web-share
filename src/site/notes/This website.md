@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/this-website/","dg-note-properties":{}}
 ---
 
-I opted for a wiki-style website for this website because by this time in my life I’ve realized I can’t describe myself in a linear way.
+I opted for a [[Hypermedia\|hypermedia]] structure for this website because by this time in my life I’ve realized I can’t describe myself in a linear way.
 
 It's currently published in the following way:
 
