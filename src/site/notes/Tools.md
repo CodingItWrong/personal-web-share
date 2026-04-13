@@ -12,42 +12,42 @@ As in, not software development
 
 - Desktop OS
 	- macOS
-	- Linux Mint
+	- [Linux Mint](https://www.linuxmint.com/)
 		- 22.1 with kernel 6.8 on Mac minis for WiFi driver support
 		- 22.3 (latest) on non-Apple hardware
-	- Shell: zsh with oh-my-zsh
+	- Shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
 - Phone: iPhone
-- Email: Fastmail
+- Email: [Fastmail](https://www.fastmail.com/)
 - Browser
-	- Modern desktop: Zen
-	- Lower-powered desktop: Waterfox
-	- iPhone: Quiche
-- Social Network: Mastodon
-	- Instance: OldBytes.space running Mastodon Glitch
-	- iOS client: Ice Cubes
-- Personal info management: Riverbed (developed by me)
-- File syncing: Resilio Sync
-- Notes: Obsidian
-- Image editing: Gimp
-- Video editing: kdenlive
-- Podcast client: Overcast
+	- Modern desktop: [Zen](https://zen-browser.app/)
+	- Lower-powered desktop, Android: [Waterfox](https://www.waterfox.com/)
+	- iPhone: [Quiche](https://quiche.industries/browser/)
+- Social Network: [Mastodon](https://joinmastodon.org/)
+	- Instance: [OldBytes.space](https://oldbytes.space) running [Glitch Edition](https://glitch-soc.github.io/docs/)
+	- iOS client: [Ice Cubes](https://www.icecubes.social/)
+- Personal info management: [Riverbed](https://about.riverbed.app/) (developed by me)
+- File syncing: [Resilio Sync](https://www.resilio.com/sync/)
+- Notes: [Obsidian](https://obsidian.md/)
+- Image editing: [Gimp](https://www.gimp.org/)
+- Video editing: [kdenlive](https://kdenlive.org/)
+- Podcast client: [Overcast](https://overcast.fm/)
 
 ## Software Development
 
 - Version control:
-	- Migrating most projects to GitLab to avoid MS dependency/training
+	- Migrating most projects to [GitLab](https://gitlab.com/) to avoid MS dependency/training
 	- GitHub for public OSS projects
 - Frontend language: JavaScript for personal projects (avoiding MS dependency)
-- Full stack framework: Ruby on Rails with Turbo
-- Single-page apps: React with React Router
+- Full stack framework: [Ruby on Rails](https://rubyonrails.org/) with [Turbo](https://turbo.hotwired.dev/)
+- Single-page apps: [React](https://react.dev/) with [React Router](https://reactrouter.com/)
 - Static sides
-	- Jekyll
-	- Docusaurus
-- Native iOS apps: UIKit
-- Database: Postgres
+	- [Jekyll](https://jekyllrb.com/)
+	- [Docusaurus](https://docusaurus.io/)
+- Native iOS apps: [UIKit](https://developer.apple.com/documentation/uikit)
+- Database: [Postgres](https://www.postgresql.org/)
 - Editor: Visual Studio Code. I’ve tried alternatives but it has the most plugin compatibility and reliability for my languages
 - Hosting
 	- Frontend
 		- GitHub Pages
-		- Vercel for this Obsidian Digital Garden site
-	- Backend: Railway
+		- [Vercel](https://vercel.com) for this [Obsidian Digital Garden](https://docs.forestry.md/) site
+	- Backend: [Railway](https://railway.com/)
