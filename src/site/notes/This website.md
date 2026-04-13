@@ -17,7 +17,7 @@ It's currently published in the following way:
 	- Publish to the main branch via Obsidian Digital Garden
 	- Vercel deploys to the preview domain
 	- I review the deployed changes and make any corrections needed
-	- When I’m happy with the changes I run the GitHub Actions workflow which merges them to the `live` branch where they’re then deployed to the live domain
+	- When I’m happy with the changes I run a [GitHub Actions workflow](https://github.com/CodingItWrong/digitalgarden-me/blob/main/.github/workflows/deploy.yml) which merges them to the `live` branch where they’re then deployed to the live domain
 
 It’s not a perfect setup; I may still someday revive an old project TypeLink for live editing of a personal wiki web site. But the Obsidian ecosystem does provide a lot of advantages.
 
