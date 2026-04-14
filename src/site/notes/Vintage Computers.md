@@ -13,6 +13,8 @@
 - Web Browsers: the following are good modernish options
 	- Mac OS 9: [Classilla](https://macintoshgarden.org/apps/classilla)
 	- Mac OS X 10.4 to 10.6: [PowerFox](https://powerfox.jazzzny.me/)
+- Images
+	- [GraphicConverter](https://www.lemkesoft.de/en/products/graphicconverter/download/download-old-versions) is a great option for converting images between any formats, including common classic Mac OS formats like .pict and modern formats. A free license for version 6 (the latest classic Mac version) is available at the link
 - Emulation
 	- [Infinite Mac](https://infinitemac.org/)
 	- Sheep Shaver
