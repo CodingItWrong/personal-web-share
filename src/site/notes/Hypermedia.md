@@ -16,4 +16,4 @@ Hypermedia was the solution to the complexity of a person trying to talk about e
 
 That's why this web site doesn't have a navigation bar. You don't need a hierarchical enumeration of each of the facets of my life. Aspects will grow organically over time.
 
-The search, backlink, and local-graph features offered by Obsidian Digital Garden, though, all seem compatible with hypermedia, so I'm keeping those for now.
+The search and backlink features offered by Obsidian Digital Garden, though, all seem compatible with hypermedia, so I'm keeping those for now.
