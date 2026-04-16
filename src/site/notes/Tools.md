@@ -12,7 +12,7 @@ As in, not software development
 
 - Desktop OS
 	- macOS: I’m a [[Vintage Computers\|lifelong Mac user]]
-	- [[Linux/Linux Mint\|Linux Mint]]
+	- [[Linux/Linux\|Linux]]: in support of open source and software freedom, and in light of my increasing concerns with Apple, I’m trying to use Linux more, especially [[Linux/Linux Mint\|Linux Mint]]
 	- Shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
 - Phone: iPhone
 - Email: [Fastmail](https://www.fastmail.com/)
