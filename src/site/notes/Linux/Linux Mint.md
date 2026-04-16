@@ -25,6 +25,6 @@ Setup instructions for my Mint setups, and miscellaneous notes.
 	- Visual Studio Code: [.deb from their web site](https://code.visualstudio.com/Download)
 	- Development tools
 		- Git: [[apt\|apt]]
-		- Node: via nvm
-		- Ruby: vi rbenv
+		- Node: via [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
+		- Ruby: vi [rbenv](https://github.com/rbenv/rbenv?tab=readme-ov-file#basic-git-checkout)
 		- Postgres: apt
