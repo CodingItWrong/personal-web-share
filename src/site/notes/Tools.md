@@ -38,10 +38,10 @@ As in, not software development
 - Frontend language: JavaScript for personal projects (avoiding MS dependency)
 - Full stack framework: [Ruby on Rails](https://rubyonrails.org/) with [Turbo](https://turbo.hotwired.dev/)
 - Single-page apps: [React](https://react.dev/) with [React Router](https://reactrouter.com/)
-- Static sides
+- Static sites
 	- [Jekyll](https://jekyllrb.com/)
 	- [Docusaurus](https://docusaurus.io/)
-- Native iOS apps: [UIKit](https://developer.apple.com/documentation/uikit)
+- Native iOS apps: [UIKit](https://developer.apple.com/documentation/uikit) (I’ve been warned off of SwiftUI)
 - Database: [Postgres](https://www.postgresql.org/)
 - Editor: Visual Studio Code. I’ve tried alternatives but it has the most plugin compatibility and reliability for my languages
 - Hosting
