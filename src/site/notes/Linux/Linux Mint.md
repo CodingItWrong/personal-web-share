@@ -10,10 +10,11 @@ Setup instructions for my Mint setups, and miscellaneous notes.
 - Version to install
 	- Non-Apple hardware: [latest version](https://www.linuxmint.com/download.php), Cinnamon edition
 	- Apple hardware: [22.1, Cinnamon edition](https://www.linuxmint.com/edition.php?id=319). This is to start not on the Linux 6.8 kernel, which as of this writing is required to build Broadcom WiFi drivers
+		- After installing, can update Mint version without changing kernel version in Update Manager under Edit > Upgrade to Linux Mint (version)
 - Drivers
-	- Apple hardware: Broadcom WiFi drivers. Install in ???
+	- Apple hardware: Broadcom WiFi drivers. Install in Driver Manager
 - Kernel
-	- Updates managed in ???
+	- Updates managed in Update Manager under View > Linux Kernels
 	- Apple hardware: do NOT update past 6.8. Update to 6.8 latest
 	- Non-Apple hardware: update to latest
 - Installing my key apps
