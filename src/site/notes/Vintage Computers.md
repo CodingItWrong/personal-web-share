@@ -16,9 +16,8 @@
 - Images
 	- [GraphicConverter](https://www.lemkesoft.de/en/products/graphicconverter/download/download-old-versions) is a great option for converting images between any formats, including common classic Mac OS formats like .pict and modern formats. A free license for version 6 (the latest classic Mac version) is available at the link
 - Emulation
-	- [Infinite Mac](https://infinitemac.org/)
+	- [Infinite Mac](https://infinitemac.org/) allows you to run many Mac OS versions directly in the browswr
 	- Sheep Shaver
-	- UTM
 - Hardware
 	- [EveryMac.com](https://everymac.com/) is a great reference for hardware specs on current and past Apple hardware
 	- [eBay](https://www.ebay.com/) is good for variety of machines for sale, but beware overpriced items
