@@ -24,7 +24,7 @@ Setup instructions for my Mint setups, and miscellaneous notes.
 	- Obsidian: via store
 	- Visual Studio Code: via .deb
 	- Development tools
-		- Git: apt
+		- Git: [[apt\|apt]]
 		- Node: via nvm
 		- Ruby: vi rbenv
 		- Postgres: apt
