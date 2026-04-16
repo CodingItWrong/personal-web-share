@@ -4,7 +4,7 @@
 
 My recommended setup for running Linux on Mac hardware.
 
-- Distro: Linux Mint, because it has the best support for Broadcom WiFi drivers AND for locking to the LTS version of the Linux Kernel to prevent breakages with that driver
+- Distro: [[Linux/Linux Mint\|Linux Mint]], because it has the best support for Broadcom WiFi drivers AND for locking to the LTS version of the Linux Kernel to prevent breakages with that driver
 - Desktop environment: Cinnamon, because it is the most modern and has the easiest pinning permanent taskbar icons
 
 ## Which Desktop Model to Buy
