@@ -11,10 +11,8 @@ None of the links below are affiliate linked *unless* they are specifically call
 As in, not software development 
 
 - Desktop OS
-	- macOS
-	- [Linux Mint](https://www.linuxmint.com/)
-		- 22.1 with kernel 6.8 on Mac minis for WiFi driver support
-		- 22.3 (latest) on non-Apple hardware
+	- macOS: I’m a [[Vintage Computers\|lifelong Mac user]]
+	- [[Linux/Linux Mint\|Linux Mint]]
 	- Shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
 - Phone: iPhone
 - Email: [Fastmail](https://www.fastmail.com/)

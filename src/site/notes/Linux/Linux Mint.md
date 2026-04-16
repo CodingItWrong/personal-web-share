@@ -25,6 +25,7 @@ Setup instructions for my Mint setups, and miscellaneous notes.
 	- Visual Studio Code: [.deb from their web site](https://code.visualstudio.com/Download)
 	- Gimp: via store
 	- Development tools
+		- Oh My ZSH: [install script](https://ohmyz.sh/#install)
 		- Git: [[apt\|apt]]
 		- Node: via [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
 		- Ruby: via [rbenv](https://github.com/rbenv/rbenv?tab=readme-ov-file#basic-git-checkout)
