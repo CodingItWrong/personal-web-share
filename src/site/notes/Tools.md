@@ -11,10 +11,8 @@ None of the links below are affiliate linked *unless* they are specifically call
 As in, not software development 
 
 - Desktop OS
-	- macOS
-	- [Linux Mint](https://www.linuxmint.com/)
-		- 22.1 with kernel 6.8 on Mac minis for WiFi driver support
-		- 22.3 (latest) on non-Apple hardware
+	- macOS: I’m a [[Vintage Computers\|lifelong Mac user]]
+	- [[Linux/Linux\|Linux]]: in support of open source and software freedom, and in light of my increasing concerns with Apple, I’m trying to use Linux more, especially [[Linux/Linux Mint\|Linux Mint]]
 	- Shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
 - Phone: iPhone
 - Email: [Fastmail](https://www.fastmail.com/)
@@ -40,10 +38,10 @@ As in, not software development
 - Frontend language: JavaScript for personal projects (avoiding MS dependency)
 - Full stack framework: [Ruby on Rails](https://rubyonrails.org/) with [Turbo](https://turbo.hotwired.dev/)
 - Single-page apps: [React](https://react.dev/) with [React Router](https://reactrouter.com/)
-- Static sides
+- Static sites
 	- [Jekyll](https://jekyllrb.com/)
 	- [Docusaurus](https://docusaurus.io/)
-- Native iOS apps: [UIKit](https://developer.apple.com/documentation/uikit)
+- Native iOS apps: [UIKit](https://developer.apple.com/documentation/uikit) (I’ve been warned off of SwiftUI)
 - Database: [Postgres](https://www.postgresql.org/)
 - Editor: Visual Studio Code. I’ve tried alternatives but it has the most plugin compatibility and reliability for my languages
 - Hosting
