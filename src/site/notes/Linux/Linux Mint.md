@@ -27,7 +27,7 @@ Setup instructions for my Mint setups, and miscellaneous notes.
 	- Gimp: via store
 	- Development tools
 		- Oh My ZSH: [install script](https://ohmyz.sh/#install)
-		- Git: [[apt\|apt]]
+		- Git: [[Linux/apt Package Manager\|apt]]
 		- Node: via [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
 		- Ruby: via [rbenv](https://github.com/rbenv/rbenv?tab=readme-ov-file#basic-git-checkout)
 		- Postgres: apt
