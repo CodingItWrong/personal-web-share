@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/vintage/copland/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/copland/","permalink":"/vintage/copland/","dg-note-properties":{}}
 ---
 
-- [Download and “Supported” Hardware](https://macintoshgarden.org/apps/copland-d11e4-june-release-aka-d9) (for sufficiently limited definitions of “supported”)
+- [“Supported” Hardware](https://macintoshgarden.org/apps/copland-d11e4-june-release-aka-d9) (for sufficiently limited definitions of “supported”)
 - [Demo Video](https://youtu.be/9VpTu5c8I_w?si=wWKXq9vXhTUJjDGt)
 
 My “working” setup:

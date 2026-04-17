@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/vintage/be-os/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/beos/","permalink":"/vintage/beos/","dg-note-properties":{}}
 ---
 
-- Downloads (multiple from Archive.org)
 - [Supported hardware](https://web.archive.org/web/20010204022700/http://www.be.com/support/guides/beosreadylist_ppc.html)
-- Demo Video
+- [Demo Video](https://youtu.be/Q1gviCx_KhE?si=iE4gwdADu6im88VI)
 
 My working setup:
 

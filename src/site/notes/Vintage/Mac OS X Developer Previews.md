@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/vintage/mac-os-x-developer-previews/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/mac-os-x-dps/","permalink":"/vintage/mac-os-x-dps/","dg-note-properties":{}}
 ---
 
-- [Downloads](https://www.macintoshrepository.org/1077-mac-os-x-developer-previews-dp-)
+- [Demo Video](https://youtu.be/RkeaQNU8EtA?si=rGKDQMVNy9zQM3rn)
 
 My working setup for DP 2 thru 4:
 
