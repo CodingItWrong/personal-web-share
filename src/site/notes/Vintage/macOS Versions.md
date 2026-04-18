@@ -1,0 +1,55 @@
+---
+{"dg-publish":true,"dg-permalink":"vintage/mac/os-versions/","permalink":"/vintage/mac/os-versions/","dg-note-properties":{}}
+---
+
+
+[macOS version history - Wikipedia](https://en.wikipedia.org/wiki/MacOS_version_history#Releases)
+
+- Mac OS X 10.4 Tiger (2005)
+	- First to run on Intel (partway through the lifetime)
+	- Last version to support Classic environment (on PowerPC)
+- Mac OS X 10.5 Leopard (2007)
+	- Last to run on PowerPC
+	- Introduced Time Machine
+- Mac OS X 10.6 Snow Leopard (2009)
+	- First to run exclusively on Intel
+	- Still had Rosetta to allow running PowerPC applications
+	- Finder rewritten in Cocoa
+	- Last to support 32-bit Intel Macs
+- OS X 10.7 Lion (2011)
+	- First to be exclusively referred to as “OS X”
+	- Removed Rosetta, so PowerPC applications could no longer be run
+- OS X 10.8 Mountain Lion (2012)
+	- Last to be named after a cat
+- OS X 10.9 Mavericks (2013)
+	- First to be named after a location in California
+- OS X 10.10 Yosemite (2014)
+	- Introduced Continuity and Handoff
+- OS X 10.11 El Capitan (2015)
+	- Last to be referred to as “OS X”
+	- San Francisco adopted as system font
+- macOS 10.12 Sierra (2016)
+	- First referred to as “macOS”
+- macOS 10.13 High Sierra (2017)
+	- Switch to APFS
+- macOS 10.14 Mojave (2018)
+	- Introduced dark mode
+	- Last to support 32-bit apps
+- macOS 10.15 Catalina (2019)
+	- Last in 10.x line
+	- First to support only 64-bit apps. This can especially affect Steam games that weren’t updated to 64-bit
+	- Introduced Sidecar
+	- Introduced Mac Catalyst to allow iOS apps to run on macOS
+- macOS 11 Big Sur (2020)
+	- First after 10.x line
+	- Shift to flat design
+	- First to support Apple silicon
+	- Introduced Rosetta 2 to allow 64-bit Intel apps to run on Apple Silicon
+- macOS 13 Ventura (2022)
+	- Introduced continuity camera 
+- macOS 15 Sequoia (2024)
+	- Adds iPhone Mirroring
+- macOS 26 Tahoe (2025)
+	- Introduced Liquid Glass
+	- Still supports Intel apps via Rosetta 2
+	- Supports Intel processors, but announced to be the last version to do so

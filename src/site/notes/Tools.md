@@ -11,7 +11,7 @@ None of the links below are affiliate linked *unless* they are specifically call
 As in, not software development 
 
 - Desktop OS
-	- macOS: I’m a [[Vintage Computers\|lifelong Mac user]]
+	- macOS: I’m a [[Vintage/Vintage Mac Tips\|lifelong Mac user]]
 	- [[Linux/Linux\|Linux]]: in support of open source and software freedom, and in light of my increasing concerns with Apple, I’m trying to use Linux more, especially [[Linux/Linux Mint\|Linux Mint]]
 	- Shell: zsh with [oh-my-zsh](https://ohmyz.sh/)
 - Phone: iPhone

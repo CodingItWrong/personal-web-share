@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vintage-computers/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/mac/tips/","permalink":"/vintage/mac/tips/","dg-note-properties":{}}
 ---
 
 
