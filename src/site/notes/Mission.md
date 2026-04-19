@@ -22,7 +22,9 @@ Over my history using computers and creating web sites and software, some of the
 I've written more about HyperCard and Smalltalk at [User-Modifiable Software](https://usermodifiable.codingitwrong.com/).
 
 ## Related Concepts
-- [Open Standards](https://en.wikipedia.org/wiki/Open_standard)
-- [Open Source Software](https://en.wikipedia.org/wiki/Open_source)
-- [Right to Repair](https://en.wikipedia.org/wiki/Right_to_repair)
 - [End-User Programming](https://en.wikipedia.org/wiki/End-user_development)
+- [Human-Centered Design](https://en.wikipedia.org/wiki/Human-centered_design)
+- [Open Source Software](https://en.wikipedia.org/wiki/Open_source)
+- [Open Standards](https://en.wikipedia.org/wiki/Open_standard)
+- [Programmer happiness](https://rubyonrails.org/doctrine#optimize-for-programmer-happiness)
+- [Right to Repair](https://en.wikipedia.org/wiki/Right_to_repair)
