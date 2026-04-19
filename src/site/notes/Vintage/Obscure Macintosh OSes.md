@@ -49,6 +49,9 @@ If you have a vintage machine and want to run something unique on it, or if you 
 | eMac (orig) | ❌   | ❌   | ❌    | ✅    | ❌    |
 | iMac G4     | ❌   | ❌   | ❌    | ❌    | ✅    |
 | G4 Cube     | ❌   | ❌   | ❌    | ❌    | ✅    |
+
+---
+
 Sources:
 
 - [Copland Supported Hardware](https://macintoshgarden.org/apps/copland-d11e4-june-release-aka-d9)
