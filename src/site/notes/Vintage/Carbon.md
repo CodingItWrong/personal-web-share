@@ -11,3 +11,5 @@ In response, Apple shifted to a new strategy. Carbon was a library that implemen
 I found a podcast where Sean Parent gave some interesting history about Carbon:
 
 [Episode 28: Steve Jobs & Sean Parent \| ADSP: The Podcast](https://adspthepodcast.com/2021/06/04/Episode-28.html)
+
+- [YouTube: WWDC 1998 Keynote - Mac OS X/Carbon Strategy](https://youtu.be/03kTC0Sm7wc?t=2868)
