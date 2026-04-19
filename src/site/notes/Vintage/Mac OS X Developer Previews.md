@@ -47,6 +47,5 @@ Before the public launch of Mac OS X, it was released to developers in a series 
 - [John Siracusa — Mac OS X DP2: A Preview](https://archive.arstechnica.com/reviews/4q99/macos-x-dp2/m-macos-x-dp2-1.html)
 - [John Siracusa — Mac OS X Update: Quartz & Aqua](https://archive.arstechnica.com/reviews/1q00/macos-x-gui/macos-x-gui-1.html)
 - [John Siracusa — Mac OS X DP3: Trial by Water](https://archive.arstechnica.com/reviews/1q00/macos-x-dp3/macos-x-dp3-1.html)
-- [ADSP Podcast, episode 28: Sean Parent and the Creation of Carbon](https://www.adspthepodcast.com/2021/06/04/Episode-28.html)
 - [Wikipedia: macOS - Timeline of Releases](https://en.wikipedia.org/wiki/MacOS#Timeline_of_releases)
 - [Demo Video](https://youtu.be/RkeaQNU8EtA?si=rGKDQMVNy9zQM3rn)
