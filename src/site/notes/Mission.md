@@ -20,3 +20,9 @@ Over my history using computers and creating web sites and software, some of the
 - The iPhone, which when it was announced increased the power and user interface that people have in their pockets tremendously.
 
 I've written more about HyperCard and Smalltalk at [User-Modifiable Software](https://usermodifiable.codingitwrong.com/).
+
+## Related Concepts
+- [Open Standards](https://en.wikipedia.org/wiki/Open_standard)
+- [Open Source Software](https://en.wikipedia.org/wiki/Open_source)
+- [Right to Repair](https://en.wikipedia.org/wiki/Right_to_repair)
+- [End-User Programming](https://en.wikipedia.org/wiki/End-user_development)
