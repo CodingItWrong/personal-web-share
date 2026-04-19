@@ -23,7 +23,11 @@ I've written more about HyperCard and Smalltalk at [User-Modifiable Software](ht
 
 ## Related Concepts
 - [End-User Programming](https://en.wikipedia.org/wiki/End-user_development)
+- [Free software](https://www.gnu.org/philosophy/free-sw.en.html)
+- High-level [abstractions](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
 - [Human-Centered Design](https://en.wikipedia.org/wiki/Human-centered_design)
+- [Long-term support](https://en.wikipedia.org/wiki/Long-term_support)
+- [Modifying in the context of use](https://malleable.systems/mission/#6-modifying-in-the-context-of-use)
 - [Open Source Software](https://en.wikipedia.org/wiki/Open_source)
 - [Open Standards](https://en.wikipedia.org/wiki/Open_standard)
 - [Programmer happiness](https://rubyonrails.org/doctrine#optimize-for-programmer-happiness)
