@@ -5,6 +5,11 @@
 
 [macOS version history - Wikipedia](https://en.wikipedia.org/wiki/MacOS_version_history#Releases)
 
+- Max OS X 10.3 Panther (2003)
+	- Safari the default web browser
+	- Finder brushed-metal UI
+	- FileVault for home folder added
+	- X11 compatibility
 - Mac OS X 10.4 Tiger (2005)
 	- First to run on Intel (partway through the lifetime)
 	- Last version to support Classic environment (on PowerPC)

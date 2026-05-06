@@ -34,3 +34,4 @@ I've written more about HyperCard and Smalltalk at [User-Modifiable Software](ht
 - [Permacomputing](https://permacomputing.net/)
 - [Programmer happiness](https://rubyonrails.org/doctrine#optimize-for-programmer-happiness)
 - [Right to Repair](https://en.wikipedia.org/wiki/Right_to_repair)
+- User agency
