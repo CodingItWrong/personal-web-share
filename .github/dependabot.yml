@@ -13,5 +13,5 @@ updates:
       - dependency-name: "@sindresorhus/slugify"
         # For slugify, ignore all updates.
       - dependency-name: "@11ty/eleventy-plugin-rss"
-        versions: [ "^1.2.0" ]
+        update-types: ["version-update:semver-major"]
       - dependency-name: "markdown-it-mathjax3" # not used, and new major version builds slowly
