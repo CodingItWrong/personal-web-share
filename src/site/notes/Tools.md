@@ -43,7 +43,7 @@ As in, not software development
 	- [Docusaurus](https://docusaurus.io/)
 - Native iOS apps: [UIKit](https://developer.apple.com/documentation/uikit) (I’ve been warned off of SwiftUI)
 - Database: [Postgres](https://www.postgresql.org/)
-- Editor: Visual Studio Code. I’ve tried alternatives but it has the most plugin compatibility and reliability for my languages
+- Editor: [Zed](https://zed.dev/). Although it still has some rough edges compared to VS Code, I worry about [intrusive AI features](https://ostechnix.com/vs-code-ai).
 - Hosting
 	- Frontend
 		- GitHub Pages
