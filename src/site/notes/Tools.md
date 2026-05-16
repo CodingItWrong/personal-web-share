@@ -43,7 +43,7 @@ As in, not software development
 	- [Docusaurus](https://docusaurus.io/)
 - Native iOS apps: [UIKit](https://developer.apple.com/documentation/uikit) (I’ve been warned off of SwiftUI)
 - Database: [Postgres](https://www.postgresql.org/)
-- Editor: [Zed](https://zed.dev/). Although it still has some rough edges compared to VS Code, I worry about [intrusive AI features](https://ostechnix.com/vs-code-ai).
+- Editor: VS Code. Although I worry about [intrusive AI features](https://ostechnix.com/vs-code-ai) and what else Microsoft might put in there, Zed has a persistent bug where new files created outside of Zed don't show up in the sidebar and can't be opened any other way.
 - Hosting
 	- Frontend
 		- GitHub Pages
