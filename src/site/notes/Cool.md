@@ -4,7 +4,7 @@
 
 What does "cool" mean? Yes, we're actually going to analyze this.
 
-(I'm 43, so my use of slang here is almost certainly dated. I'm not attempting to be "cool" linguistically! Map the ideas below to the terms you use for them.)
+(I was born in 1982, so my use of slang here is almost certainly dated. I'm not attempting to be "cool" linguistically! Map the ideas below to the terms you use for them.)
 
 I'd say that at a basic level it refers to being **nonchalant or unbothered**.
 
