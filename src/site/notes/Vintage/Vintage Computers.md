@@ -4,6 +4,7 @@
 
 Notes on my vintage computing projects, including:
 
+- [[Vintage/Computer History\|Computer History]] resources
 - [[Vintage/Vintage Mac Tips\|Vintage Mac Tips]]
 - Notes on the [[Vintage/Power Mac G4 MDD\|Power Mac G4 MDD]], the last and highest-power machine that could officially boot Mac OS 9
 - Notes on [[Vintage/Obscure Macintosh OSes\|Obscure Macintosh OSes]]
