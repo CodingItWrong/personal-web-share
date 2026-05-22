@@ -11,6 +11,7 @@ This is a completely biased list of the things in computer history I’m interes
 - [Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything](https://www.stevenlevy.com/insanely-great)
 - [Steve Jobs and the NeXT Big Thing](https://www.goodreads.com/en/book/show/226316.Steve_Jobs_the_NeXT_Big_Thing) - significant as NeXTSTEP was and is the basis of Mac OS X and iOS
 - [Apple: The Inside Story of Intrigue, Egomania, and Business Blunders](https://www.goodreads.com/book/show/581496.Apple?from_search=true&from_srp=LZrHi6CWFz&qid=1)
+- [Console Wars: Sega, Nintendo, and the Battle That Defined a Generation](https://en.wikipedia.org/wiki/Console_Wars_(book))
 
 ### Niche
 - [Defying Gravity: The Making of Newton](https://www.goodreads.com/book/show/2347472.Defying_Gravity)
