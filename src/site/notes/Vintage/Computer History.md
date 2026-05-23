@@ -22,6 +22,9 @@ This is a completely biased list of the things in computer history I’m interes
 - [Shareware Heroes](https://sharewareheroes.com/)
 
 ## Video
+### Recordings
+- [The Mother of All Demos](https://youtu.be/yJDv-zdhzMY?si=TAbQv4aHxRVqMi1S), Douglas Engelbart
+
 ### Documentaries
 - [Before Macintosh: The Apple Lisa](https://www.classiccomputing.com/Classic_Computing/Lisa_Film.html)
 - [Love Notes to Newton](https://youtu.be/5kxRi34PqWo?si=fMrV94k6OpF7l4ES)
