@@ -6,10 +6,4 @@ allowBuilds:
 engineStrict: true
 blockExoticSubdeps: true
 trustPolicy: no-downgrade
-# semver@5.7.2 is the final release of semver's pre-provenance 5.x maintenance
-# line (maintained by GitHub/npm), pulled in only by npm-run-all -> cross-spawn@6.
-# It predates npm provenance attestation, so no-downgrade flags it as a downgrade
-# vs newer 7.x releases. Trusted exception.
-trustPolicyExclude:
-  - semver@5.7.2
 minimumReleaseAge: 10080 # minutes (7 days)
