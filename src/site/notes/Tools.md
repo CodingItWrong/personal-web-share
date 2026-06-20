@@ -27,11 +27,11 @@ As in, not software development
 - Social Network: [Mastodon](https://joinmastodon.org/)
 	- Instance: [OldBytes.space](https://oldbytes.space) running [Glitch Edition](https://glitch-soc.github.io/docs/)
 	- iOS client: [Ice Cubes](https://www.icecubes.social/)
+- Personal info management: [Riverbed](https://about.riverbed.app/) (developed by me)
 - Image editing:
 	- Raster: [Gimp](https://www.gimp.org/)
 	- Vector: [Inkscape](https://inkscape.org/)
 - Video editing: [kdenlive](https://kdenlive.org/)
-- Personal info management: [Riverbed](https://about.riverbed.app/) (developed by me)
 
 ## Software Development
 
