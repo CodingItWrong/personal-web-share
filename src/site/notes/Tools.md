@@ -38,7 +38,6 @@ As in, not software development
 - Version control:
 	- Migrating most projects to [GitLab](https://gitlab.com/) to avoid MS dependency/training
 	- GitHub for Pages hosting and some older projects
-- Frontend language: JavaScript for personal projects (avoiding MS dependency)
 - Single-page apps: [React](https://react.dev/) with [React Router](https://reactrouter.com/)
 - Backend API and full stack web app framework: [Ruby on Rails](https://rubyonrails.org/)
 	- Full stack frontend library: [Turbo](https://turbo.hotwired.dev/)
@@ -48,7 +47,8 @@ As in, not software development
 - Native iOS apps: [UIKit](https://developer.apple.com/documentation/uikit) (I’ve been warned off of SwiftUI)
 - Database: [Postgres](https://www.postgresql.org/)
 - Editor: VS Code
-	- Although I worry about [intrusive AI features](https://ostechnix.com/vs-code-ai) and what else Microsoft might put in there, Zed has a persistent bug where new files created outside of Zed don't show up in the sidebar and can't be opened any other way.
+	- I do worry about [intrusive AI features](https://ostechnix.com/vs-code-ai) and what else Microsoft might put in there
+	- Zed is the alternative, but it has a persistent bug where new files created outside of Zed don't show up in the sidebar and can't be opened any other way.
 - Hosting
 	- Frontend
 		- GitHub Pages
