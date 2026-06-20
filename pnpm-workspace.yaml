@@ -1,0 +1,9 @@
+allowBuilds:
+  '@parcel/watcher': true
+  sharp: true
+
+# Supply chain security — https://pnpm.io/supply-chain-security
+engineStrict: true
+blockExoticSubdeps: true
+trustPolicy: no-downgrade
+minimumReleaseAge: 10080 # minutes (7 days)
