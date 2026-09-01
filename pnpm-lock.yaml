@@ -46,7 +46,7 @@ importers:
         version: 9.2.1(@types/markdown-it@14.1.2)(markdown-it@14.2.0)
       markdown-it-attrs:
         specifier: ^5.0.0
-        version: 5.0.0(markdown-it@14.2.0)
+        version: 5.0.1(markdown-it@14.2.0)
       markdown-it-footnote:
         specifier: ^4.0.0
         version: 4.0.0
@@ -556,6 +556,7 @@ packages:
   '@xmldom/xmldom@0.9.10':
     resolution: {integrity: sha512-A9gOqLdi6cV4ibazAjcQufGj0B1y/vDqYrcuP6d/6x8P27gRS8643Dj9o1dEKtB6O7fwxb2FgBmJS2mX7gpvdw==}
     engines: {node: '>=14.6'}
+    deprecated: this version has critical issues, please update to the latest version
 
   a-sync-waterfall@1.0.1:
     resolution: {integrity: sha512-RYTOHHdWipFUliRFMCS4X2Yn2X8M87V/OpSqWzKKOGhzqyUxzyVmhHDH9sAvG+ZuQf/TAOFsLCpMw09I1ufUnA==}
@@ -1270,8 +1271,8 @@ packages:
       '@types/markdown-it': '*'
       markdown-it: '*'
 
-  markdown-it-attrs@5.0.0:
-    resolution: {integrity: sha512-7Wvp3Fc1YsHsj1oRKli1DGAMyGhozldtU99wEl4plc6OBsv1WZB+zT3Lgm1/49rVMvXWiYXbUU8rz3X6VVGKaQ==}
+  markdown-it-attrs@5.0.1:
+    resolution: {integrity: sha512-dTP49/FLERwbgqmfIG5LwnC99qecIJYalKQbl3pY+7Hajk+Z+cazeEZaKwofpM9KFxvfRVF0UN9GYxKKAakfNg==}
     engines: {node: '>=6'}
     peerDependencies:
       markdown-it: '>= 9.0.0'
@@ -3043,7 +3044,7 @@ snapshots:
       '@types/markdown-it': 14.1.2
       markdown-it: 14.2.0
 
-  markdown-it-attrs@5.0.0(markdown-it@14.2.0):
+  markdown-it-attrs@5.0.1(markdown-it@14.2.0):
     dependencies:
       markdown-it: 14.2.0
 
